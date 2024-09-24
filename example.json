@@ -1,0 +1,12 @@
+[
+  {
+    "keyword": {
+      "zh": "哈囉",
+      "en": "hello"
+    },
+    "synonyms": {
+      "zh": ["hi", "hey", "goodbye"],
+      "en": ["嗨", "嘿", "再見"]
+    }
+  }
+]
