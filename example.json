@@ -1,12 +1,79 @@
 [
   {
     "keyword": {
-      "zh": "哈囉",
-      "en": "hello"
+      "zh": "RNA藥物研發",
+      "en": "RNA Drug Development"
     },
-    "synonyms": {
-      "zh": ["hi", "hey", "goodbye"],
-      "en": ["嗨", "嘿", "再見"]
-    }
+    "synonyms": [
+      { "zh": "核糖核酸藥物開發", "en": "Ribonucleic Acid Drug Development" },
+      { "zh": "RNA治療研發", "en": "RNA Therapeutics Development" },
+      { "zh": "RNA藥品開發", "en": "RNA Pharmaceuticals Development" }
+    ]
+  },
+  {
+    "keyword": {
+      "zh": "人工智慧藥物開發",
+      "en": "AI Drug Development"
+    },
+    "synonyms": [
+      { "zh": "AI輔助藥物設計", "en": "AI-assisted Drug Design" },
+      { "zh": "智能藥物研發", "en": "Intelligent Drug Development" },
+      { "zh": "人工智慧藥品開發", "en": "Artificial Intelligence Pharmaceuticals Development" }
+    ]
+  },
+  {
+    "keyword": {
+      "zh": "核酸治療",
+      "en": "Nucleic Acid Therapy"
+    },
+    "synonyms": [
+      { "zh": "核酸療法", "en": "Nucleic Acid Treatment" },
+      { "zh": "基因治療", "en": "Gene Therapy" },
+      { "zh": "核酸藥物治療", "en": "Nucleic Acid Drug Therapy" }
+    ]
+  },
+  {
+    "keyword": {
+      "zh": "醫藥創新",
+      "en": "Medical Innovation"
+    },
+    "synonyms": [
+      { "zh": "醫藥科技創新", "en": "Medical Technology Innovation" },
+      { "zh": "醫療創新", "en": "Healthcare Innovation" },
+      { "zh": "生物醫學創新", "en": "Biomedical Innovation" }
+    ]
+  },
+  {
+    "keyword": {
+      "zh": "小分子藥物",
+      "en": "Small Molecule Drugs"
+    },
+    "synonyms": [
+      { "zh": "小分子治療劑", "en": "Small Molecule Therapeutics" },
+      { "zh": "小分子藥品", "en": "Small Molecule Pharmaceuticals" },
+      { "zh": "小分子化合物", "en": "Small Molecule Compounds" }
+    ]
+  },
+  {
+    "keyword": {
+      "zh": "非胰島素療法",
+      "en": "Non-Insulin Therapies"
+    },
+    "synonyms": [
+      { "zh": "非胰島素治療", "en": "Non-Insulin Treatment" },
+      { "zh": "糖尿病口服藥物", "en": "Diabetes Oral Medications" },
+      { "zh": "糖尿病非胰島素藥物", "en": "Diabetes Non-Insulin Drugs" }
+    ]
+  },
+  {
+    "keyword": {
+      "zh": "TIGIT抗體",
+      "en": "TIGIT Antibodies"
+    },
+    "synonyms": [
+      { "zh": "TIGIT免疫抑制劑", "en": "TIGIT Immune Checkpoint Inhibitors" },
+      { "zh": "TIGIT標靶抗體", "en": "TIGIT Targeted Antibodies" },
+      { "zh": "抗TIGIT抗體治療", "en": "Anti-TIGIT Antibody Therapy" }
+    ]
   }
 ]
