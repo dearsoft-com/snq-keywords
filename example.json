@@ -1,79 +1,79 @@
 [
   {
     "keyword": {
-      "zh": "RNA藥物研發",
-      "en": "RNA Drug Development"
+      "zh-TW": "RNA藥物研發",
+      "en-US": "RNA Drug Development"
     },
     "synonyms": [
-      { "zh": "核糖核酸藥物開發", "en": "Ribonucleic Acid Drug Development" },
-      { "zh": "RNA治療研發", "en": "RNA Therapeutics Development" },
-      { "zh": "RNA藥品開發", "en": "RNA Pharmaceuticals Development" }
+      { "zh-TW": "核糖核酸藥物開發", "en-US": "Ribonucleic Acid Drug Development" },
+      { "zh-TW": "RNA治療研發", "en-US": "RNA Therapeutics Development" },
+      { "zh-TW": "RNA藥品開發", "en-US": "RNA Pharmaceuticals Development" }
     ]
   },
   {
     "keyword": {
-      "zh": "人工智慧藥物開發",
-      "en": "AI Drug Development"
+      "zh-TW": "人工智慧藥物開發",
+      "en-US": "AI Drug Development"
     },
     "synonyms": [
-      { "zh": "AI輔助藥物設計", "en": "AI-assisted Drug Design" },
-      { "zh": "智能藥物研發", "en": "Intelligent Drug Development" },
-      { "zh": "人工智慧藥品開發", "en": "Artificial Intelligence Pharmaceuticals Development" }
+      { "zh-TW": "AI輔助藥物設計", "en-US": "AI-assisted Drug Design" },
+      { "zh-TW": "智能藥物研發", "en-US": "Intelligent Drug Development" },
+      { "zh-TW": "人工智慧藥品開發", "en-US": "Artificial Intelligence Pharmaceuticals Development" }
     ]
   },
   {
     "keyword": {
-      "zh": "核酸治療",
-      "en": "Nucleic Acid Therapy"
+      "zh-TW": "核酸治療",
+      "en-US": "Nucleic Acid Therapy"
     },
     "synonyms": [
-      { "zh": "核酸療法", "en": "Nucleic Acid Treatment" },
-      { "zh": "基因治療", "en": "Gene Therapy" },
-      { "zh": "核酸藥物治療", "en": "Nucleic Acid Drug Therapy" }
+      { "zh-TW": "核酸療法", "en-US": "Nucleic Acid Treatment" },
+      { "zh-TW": "基因治療", "en-US": "Gene Therapy" },
+      { "zh-TW": "核酸藥物治療", "en-US": "Nucleic Acid Drug Therapy" }
     ]
   },
   {
     "keyword": {
-      "zh": "醫藥創新",
-      "en": "Medical Innovation"
+      "zh-TW": "醫藥創新",
+      "en-US": "Medical Innovation"
     },
     "synonyms": [
-      { "zh": "醫藥科技創新", "en": "Medical Technology Innovation" },
-      { "zh": "醫療創新", "en": "Healthcare Innovation" },
-      { "zh": "生物醫學創新", "en": "Biomedical Innovation" }
+      { "zh-TW": "醫藥科技創新", "en-US": "Medical Technology Innovation" },
+      { "zh-TW": "醫療創新", "en-US": "Healthcare Innovation" },
+      { "zh-TW": "生物醫學創新", "en-US": "Biomedical Innovation" }
     ]
   },
   {
     "keyword": {
-      "zh": "小分子藥物",
-      "en": "Small Molecule Drugs"
+      "zh-TW": "小分子藥物",
+      "en-US": "Small Molecule Drugs"
     },
     "synonyms": [
-      { "zh": "小分子治療劑", "en": "Small Molecule Therapeutics" },
-      { "zh": "小分子藥品", "en": "Small Molecule Pharmaceuticals" },
-      { "zh": "小分子化合物", "en": "Small Molecule Compounds" }
+      { "zh-TW": "小分子治療劑", "en-US": "Small Molecule Therapeutics" },
+      { "zh-TW": "小分子藥品", "en-US": "Small Molecule Pharmaceuticals" },
+      { "zh-TW": "小分子化合物", "en-US": "Small Molecule Compounds" }
     ]
   },
   {
     "keyword": {
-      "zh": "非胰島素療法",
-      "en": "Non-Insulin Therapies"
+      "zh-TW": "非胰島素療法",
+      "en-US": "Non-Insulin Therapies"
     },
     "synonyms": [
-      { "zh": "非胰島素治療", "en": "Non-Insulin Treatment" },
-      { "zh": "糖尿病口服藥物", "en": "Diabetes Oral Medications" },
-      { "zh": "糖尿病非胰島素藥物", "en": "Diabetes Non-Insulin Drugs" }
+      { "zh-TW": "非胰島素治療", "en-US": "Non-Insulin Treatment" },
+      { "zh-TW": "糖尿病口服藥物", "en-US": "Diabetes Oral Medications" },
+      { "zh-TW": "糖尿病非胰島素藥物", "en-US": "Diabetes Non-Insulin Drugs" }
     ]
   },
   {
     "keyword": {
-      "zh": "TIGIT抗體",
-      "en": "TIGIT Antibodies"
+      "zh-TW": "TIGIT抗體",
+      "en-US": "TIGIT Antibodies"
     },
     "synonyms": [
-      { "zh": "TIGIT免疫抑制劑", "en": "TIGIT Immune Checkpoint Inhibitors" },
-      { "zh": "TIGIT標靶抗體", "en": "TIGIT Targeted Antibodies" },
-      { "zh": "抗TIGIT抗體治療", "en": "Anti-TIGIT Antibody Therapy" }
+      { "zh-TW": "TIGIT免疫抑制劑", "en-US": "TIGIT Immune Checkpoint Inhibitors" },
+      { "zh-TW": "TIGIT標靶抗體", "en-US": "TIGIT Targeted Antibodies" },
+      { "zh-TW": "抗TIGIT抗體治療", "en-US": "Anti-TIGIT Antibody Therapy" }
     ]
   }
 ]
